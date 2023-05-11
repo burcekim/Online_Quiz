@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="main_title" type="id" />
+    <item name="ma_startB" type="id" />
+    <item name="appName" type="id" />
+</resources>
